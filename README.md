@@ -1,2 +1,3 @@
-# projectanalitycs
-Análise de dados referentes a registros de roubos no estado do Espírito Santo de janeiro a julho de 2024
+# Projeto Analitycs
+Este projeto tem como objetivo fazer a análise dos dados referentes a registros de roubos que ocorreram no ano de 2024, entre janeiro e julho, no estado do Espírito Santo. Estes dados estão disponíveis no seguinte endereço https://dados.es.gov.br/.
+Com os dados seráo feitos tabelas, gráficos, dashboards para análise de quais locais há mais incidência de roubo, qual tipo de roubo e em qual horário ocorreu. A partir desses dados é possível o cidadão saber em quais regiões ele deve tomar mais cuidado, com que tipo de item ele deve tomar cuidado. Já as autoridades iria verificar quais locais ocorrem maiores indices de crimes para poder aumentar o efetivo policial. O usuário ao acessar o endereço do site veria o 'mapa do crime' na região.
